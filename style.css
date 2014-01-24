@@ -1,0 +1,117 @@
+.wriper{
+	width: 100%;
+	min-width: 1000px;
+	height: 130px;
+	overflow: hidden;
+	}
+
+.chrome{
+	width: 130px;
+	height: 150px;
+	margin-top: -30px;
+	float: left;
+
+}
+.chrome1{
+	color: #22a12a;
+}
+.chrome2{
+	color: #c90000;
+}
+.chrome3{
+	color: #f9d411;
+}
+.chrome-span{
+	width: 130px;
+	height: 130px;
+	display: table-cell;
+	text-align: center;
+	vertical-align: middle;
+}
+.ie{
+	float: right;
+	width: 130px;
+	height: 150px;
+	margin-top: -30px;
+}
+.ie-span-1{
+	color: #036da3;
+}
+.ie-span-2{
+	color: #036da3;
+}
+.ie-span{
+	width: 130px;
+	height: 130px;
+	display: table-cell;
+	text-align: center;
+	vertical-align: middle;
+}
+.fox{
+	width: 130px;
+	height: 150px;
+	margin-top: -30px;
+	float: left;
+}
+.fox-span{
+	width: 130px;
+	height: 130px;
+	display: table-cell;
+	text-align: center;
+	vertical-align: middle;
+}
+.fox1{
+	color: #f2a414;
+}
+.opera{
+	width: 130px;
+	height: 150px;
+	margin-top: -30px;
+	float: left;
+}
+.opera-span{
+	width: 130px;
+	height: 130px;
+	display: table-cell;
+	text-align: center;
+	vertical-align: middle;
+}
+.opera1{
+	color: #c10e0e;
+}
+.safari{
+	width: 130px;
+	height: 150px;
+	margin-top: -30px;
+	float: left;
+}
+.safari-span{
+	width: 130px;
+	height: 130px;
+	display: table-cell;
+	text-align: center;
+	vertical-align: middle;
+}
+.safari1{
+	color: #646464;
+}
+.yandex{
+	width: 130px;
+	height: 150px;
+	margin-top: -30px;
+	float: left;
+}
+.yandex-span{
+	width: 130px;
+	height: 130px;
+	display: table-cell;
+	text-align: center;
+	vertical-align: middle;
+}
+.yandex1{
+	color: #ff0000;
+}
+.yandex2{
+	color: #000;
+
+}
